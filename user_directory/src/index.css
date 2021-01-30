@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+    'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  background-color: aqua;
+}
+
+code {
+  font-family: 'Courier New', monospace;
+}
+.jumbotron {
+  background-color: rgb(15, 15, 15);
+}
+.App {
+  text-align: center;
+}
+.thead {
+  background-color: black;
+}
