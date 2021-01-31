@@ -9,7 +9,7 @@ function Search(props) {
         <Container>       
         <Row>
         
-         <p>Search by First Name!</p>
+         <p>Search by First Name or Last Name!</p>
             <input 
             onChange={props.handleInputChange} 
             value={props.search} 
